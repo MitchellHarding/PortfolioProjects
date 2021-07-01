@@ -1,5 +1,5 @@
 # PortfolioProjects
-This repsitory displays my data analysis capabilities. From simple SQL dataset cleaning, to COVID-19 data exploration, this portfolio encompasses multivariant 
+This repsitory displays my data analysis capabilities. From simple SQL dataset cleaning and querying, to COVID-19 data exploration and Python dataset correlations, this portfolio encompasses multivariant 
 and geospatial datasets aswell as SQL database management techniques.
 
 Feel free to browse, wander and have a look at some of the work i have done.
